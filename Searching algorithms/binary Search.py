@@ -44,7 +44,8 @@ def binarySearchRecursive(element, dataList, left, right):
         return None
     
 
-#Driver code
+# Driver code
+
 inputList = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
 
 binarySearch(5, inputList) # Element found
